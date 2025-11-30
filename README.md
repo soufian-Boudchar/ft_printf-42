@@ -1,5 +1,4 @@
-
-# 🖨️ ft_printf — Recreating the Legendary `printf`
+            # 🖨️ ft_printf — Recreating the Legendary `printf`
 
 ![42 School](https://img.shields.io/badge/School-42-black?style=for-the-badge&logo=42)
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
