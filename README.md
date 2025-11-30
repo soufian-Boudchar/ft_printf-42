@@ -1,11 +1,13 @@
-#                         🖨️ ft_printf — Recreating the Legendary `printf`
+<div align="center">
+    
+# 🖨️ ft_printf
 
 ![42 School](https://img.shields.io/badge/School-42-black?style=for-the-badge&logo=42)
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
-![Score](https://img.shields.io/badge/Project-ft__printf-success?style=for-the-badge)
+![Score](https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge)
 ![Norminette](https://img.shields.io/badge/Norminette-Passing-green?style=for-the-badge)
 
-
+</div>
 
 
 
